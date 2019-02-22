@@ -28,7 +28,6 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.delete_if do |array|
-    item[0] != a
-  end
+  array.find do |array|
+    
 end
