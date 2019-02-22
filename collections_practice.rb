@@ -7,3 +7,6 @@ def sort_array_desc(array)
     left.length <=> right.length
   end
 end
+
+def sort_array_char_count(array1)
+  array.sort do |character.length
