@@ -3,8 +3,8 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-  array.sort do |left, right|
-    left <=> right
+  array.sort do |right, left|
+    right <=> left
   end
 end
 
