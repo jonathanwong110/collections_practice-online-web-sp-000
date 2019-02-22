@@ -1,4 +1,4 @@
-def collection_practice(asc)
-  asc = []
-  asc.sort
+def sort_array_asc(integer)
+  integers = []
+  integers.sort
 end
