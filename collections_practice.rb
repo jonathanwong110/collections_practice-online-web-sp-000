@@ -1,4 +1,4 @@
-def sort_array_asc(integer)
+def sort_array_asc
   integers = []
-  integers.sort
+
 end
