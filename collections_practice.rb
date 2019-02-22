@@ -8,5 +8,5 @@ def sort_array_desc(array)
   end
 end
 
-def sort_array_char_count(array1)
-  array.sort do |character.length
+sort_array_char_count = ["dogs", "cats", "Horses"]
+sort_array_char_count.sort
