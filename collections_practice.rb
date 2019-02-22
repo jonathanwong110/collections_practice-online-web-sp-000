@@ -8,8 +8,10 @@ def sort_array_desc(array)
   end
 end
 
-def sort_array_char_count(array1)
-  
+def sort_array_char_count(array)
+  array.sort do |left, right|
+    left.length <=> right.length
+  end
 end
 
 def swap_elements(array)
