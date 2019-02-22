@@ -28,5 +28,5 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.delete_if
+  array.delete_if do |array|
 end
