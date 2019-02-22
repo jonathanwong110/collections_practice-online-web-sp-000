@@ -29,4 +29,5 @@ end
 
 def find_a(array)
   array.delete_if do |array|
+    if item[0] != a
 end
