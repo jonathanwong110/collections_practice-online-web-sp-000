@@ -8,5 +8,6 @@ def sort_array_desc(array)
   end
 end
 
-sort_array_char_count = ["dogs", "cats", "Horses"]
-sort_array_char_count.sort
+def sort_array_char_count(array1)
+  
+end
